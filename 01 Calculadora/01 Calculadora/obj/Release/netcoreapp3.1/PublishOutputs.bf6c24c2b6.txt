@@ -1,0 +1,5 @@
+C:\Users\dam1-ibai\Desktop\01 Calculadora.exe
+C:\Users\dam1-ibai\Desktop\01 Calculadora.dll
+C:\Users\dam1-ibai\Desktop\01 Calculadora.deps.json
+C:\Users\dam1-ibai\Desktop\01 Calculadora.runtimeconfig.json
+C:\Users\dam1-ibai\Desktop\01 Calculadora.pdb

@@ -14,3 +14,19 @@ C:\Users\dam1-ibai\Documents\Visual Studio\01 Calculadora\01 Calculadora\obj\Deb
 C:\Users\dam1-ibai\Documents\Visual Studio\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.pdb
 C:\Users\dam1-ibai\Documents\Visual Studio\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.genruntimeconfig.cache
 C:\Users\dam1-ibai\Documents\Visual Studio\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\_01_Calculadora.Resources.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\bin\Debug\netcoreapp3.1\01 Calculadora.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\_01_Calculadora.Form1.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\_01_Calculadora.Resources.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\01 Calculadora\obj\Debug\netcoreapp3.1\01 Calculadora.genruntimeconfig.cache

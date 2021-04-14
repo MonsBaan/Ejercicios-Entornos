@@ -33,9 +33,9 @@ Partial Class Form1
         Me.btnVaciar = New System.Windows.Forms.Button()
         Me.cbNombres = New System.Windows.Forms.ComboBox()
         Me.btnSiguiente = New System.Windows.Forms.Button()
-        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.TimerInicio = New System.Windows.Forms.Timer(Me.components)
         Me.btnSalir = New System.Windows.Forms.Button()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txtTiempo = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
@@ -131,6 +131,10 @@ Partial Class Form1
         Me.btnSiguiente.Text = "Siguiente"
         Me.btnSiguiente.UseVisualStyleBackColor = True
         '
+        'TimerInicio
+        '
+        Me.TimerInicio.Interval = 50
+        '
         'btnSalir
         '
         Me.btnSalir.Location = New System.Drawing.Point(357, 25)
@@ -140,15 +144,15 @@ Partial Class Form1
         Me.btnSalir.Text = "Salir"
         Me.btnSalir.UseVisualStyleBackColor = True
         '
-        'TextBox1
+        'txtTiempo
         '
-        Me.TextBox1.Location = New System.Drawing.Point(12, 342)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.ReadOnly = True
-        Me.TextBox1.Size = New System.Drawing.Size(57, 32)
-        Me.TextBox1.TabIndex = 12
-        Me.TextBox1.Text = "2:00"
-        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtTiempo.Location = New System.Drawing.Point(12, 342)
+        Me.txtTiempo.Name = "txtTiempo"
+        Me.txtTiempo.ReadOnly = True
+        Me.txtTiempo.Size = New System.Drawing.Size(57, 32)
+        Me.txtTiempo.TabIndex = 12
+        Me.txtTiempo.Text = "2:00"
+        Me.txtTiempo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label2
         '
@@ -166,7 +170,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(470, 380)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.txtTiempo)
         Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.btnSiguiente)
         Me.Controls.Add(Me.cbNombres)
@@ -196,8 +200,8 @@ Partial Class Form1
     Friend WithEvents btnVaciar As Button
     Friend WithEvents cbNombres As ComboBox
     Friend WithEvents btnSiguiente As Button
-    Friend WithEvents Timer1 As Timer
+    Friend WithEvents TimerInicio As Timer
     Friend WithEvents btnSalir As Button
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtTiempo As TextBox
     Friend WithEvents Label2 As Label
 End Class

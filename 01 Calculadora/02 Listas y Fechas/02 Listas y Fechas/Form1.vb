@@ -1,4 +1,6 @@
 ﻿Public Class Form1
+    Dim tiempo As Integer = 120
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
     End Sub
 
@@ -14,6 +16,7 @@
         Else
             lstNombres.Items.Add(trimNombre)
             txtNombre.Clear()
+            TimerInicio.Start()
             btnVaciar.Enabled = True
         End If
 
@@ -63,7 +66,12 @@
     End Sub
 
     Private Sub btnPasar_Click(sender As Object, e As EventArgs) Handles btnPasar.Click
+        If cbNombres.Items.Contains(lstNombres.SelectedItem) Then
+            MessageBox.Show("Sabia que no sabias escribir, pero tio, que esta repetido", "Estas Tonto?")
 
+        Else
+            cbNombres.Items.Add(lstNombres.SelectedItem)
+        End If
     End Sub
 
     Private Sub btnEliminarSel_Click(sender As Object, e As EventArgs) Handles btnEliminarSel.Click
@@ -82,6 +90,16 @@
                 btnPasar.Enabled = False
             End If
 
+        End If
+    End Sub
+
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles TimerInicio.Tick
+        tiempo -= 1
+        txtTiempo.Text = tiempo \ 60 & " : " & tiempo Mod 60
+        If tiempo = 0 Then
+            TimerInicio.Stop()
+            txtNombre.Enabled = False
+            txtNombre.Clear()
         End If
     End Sub
 End Class

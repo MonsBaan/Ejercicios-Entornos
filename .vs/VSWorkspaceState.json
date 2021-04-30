@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01 Calculadora",
+    "\\01 Calculadora\\01 Calculadora"
   ],
-  "SelectedNode": "\\02 Listas y Fechas.sln",
+  "SelectedNode": "\\01 Calculadora\\01 Calculadora\\Form1.vb",
   "PreviewInSolutionExplorer": false
 }

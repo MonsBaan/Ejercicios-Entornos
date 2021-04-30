@@ -1,0 +1,39 @@
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\_05_BaseDatos.principal.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\_05_BaseDatos.clientes.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\05 BaseDatos.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.vbproj.CopyComplete
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\05 BaseDatos\05 BaseDatos\obj\Debug\netcoreapp3.1\05 BaseDatos.genruntimeconfig.cache

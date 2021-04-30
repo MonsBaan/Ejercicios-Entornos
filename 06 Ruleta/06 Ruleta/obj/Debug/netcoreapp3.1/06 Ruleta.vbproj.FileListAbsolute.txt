@@ -1,0 +1,16 @@
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\_06_Ruleta.Ruleta.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\_06_Ruleta.Resources.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\bin\Debug\netcoreapp3.1\06 Ruleta.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\06 Ruleta\06 Ruleta\obj\Debug\netcoreapp3.1\06 Ruleta.genruntimeconfig.cache

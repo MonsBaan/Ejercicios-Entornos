@@ -1,0 +1,16 @@
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\_02_Listas_y_Fechas.Form1.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\bin\Debug\netcoreapp3.1\02 Listas y Fechas.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\02 Listas y Fechas.genruntimeconfig.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\02 Listas y Fechas\02 Listas y Fechas\obj\Debug\netcoreapp3.1\_02_Listas_y_Fechas.Fechas.resources

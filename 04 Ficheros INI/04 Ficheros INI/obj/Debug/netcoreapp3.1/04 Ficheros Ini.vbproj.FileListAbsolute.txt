@@ -1,0 +1,15 @@
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\bin\Debug\netcoreapp3.1\04 Ficheros Ini.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\_04_Ficheros_Ini.Form1.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\04 Ficheros INI\04 Ficheros Ini\obj\Debug\netcoreapp3.1\04 Ficheros Ini.genruntimeconfig.cache

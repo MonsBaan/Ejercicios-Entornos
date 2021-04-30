@@ -1,0 +1,15 @@
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.exe
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.deps.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.runtimeconfig.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.runtimeconfig.dev.json
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\bin\Debug\netcoreapp3.1\03 Galeria.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.vbprojAssemblyReference.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\_03_Galeria.Form1.resources
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.vbproj.GenerateResource.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.AssemblyInfoInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.AssemblyInfo.vb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.vbproj.CoreCompileInputs.cache
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.dll
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.pdb
+C:\Users\dam1-ibai\Documents\Ejercicios-Entornos\01 Calculadora\03 Galeria\03 Galeria\obj\Debug\netcoreapp3.1\03 Galeria.genruntimeconfig.cache
